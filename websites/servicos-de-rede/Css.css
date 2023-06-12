@@ -1,0 +1,214 @@
+body {margin:auto}
+
+.bg{
+margin-top: 66px;
+background-color: #ffe4b5;
+background-image: url(/websites/servicos-de-rede/Imagens/Bg1.jpg);
+background-blend-mode:multiply;
+font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+.Style1{
+text-align: center;
+background-color: burlywood;
+background-image: url(/websites/servicos-de-rede/Imagens/Bg2.jpg);
+background-blend-mode:color-dodge;
+color: rgb(155, 121, 76);
+border: 3px solid rgb(155, 121, 76);
+font-size: larger;
+margin: 10px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Style2{
+text-align: center;
+background-color:cadetblue;
+background-image: url(/websites/servicos-de-rede/Imagens/Bg2.jpg);
+background-blend-mode:color-dodge;
+color:rgb(1, 106, 106);
+border:3px solid darkcyan;
+font-size: larger;
+margin: 10px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Style3{
+text-align: center;
+background-color:rgb(60, 80, 206);
+background-image: url(/websites/servicos-de-rede/Imagens/Bg2.jpg);
+background-blend-mode:color-dodge;
+color:rgb(19, 32, 137);
+border:3px solid rgb(17, 35, 163);
+font-size: larger;
+margin: 10px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Style4{
+text-align: center;
+background-color:rgb(170, 227, 112);
+background-image: url(/websites/servicos-de-rede/Imagens/Bg2.jpg);
+background-blend-mode:color-dodge;
+color:rgb(94, 157, 32);
+border:3px solid rgb(114, 180, 48);
+font-size: larger;
+margin: 10px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Style5{
+text-align: center;
+background-color:rgb(255, 120, 185);
+background-image: url(/websites/servicos-de-rede/Imagens/Bg2.jpg);
+background-blend-mode:lighten;
+color:rgb(164, 70, 116);
+border:3px solid rgb(218, 89, 151);
+font-size: larger;
+margin: 10px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Style6{
+texT-align: center;
+background-color: rgb(232, 186, 1);
+background-image: url(/websites/servicos-de-rede/Imagens/Bg2.jpg);
+background-blend-mode:color-dodge;
+color: rgb(173, 139, 4);
+border:3px solid rgb(173, 139, 4);
+font-size: larger;
+margin: 10px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Style7{
+text-align: center;
+background-color:rgb(58, 188, 205);
+background-image: url(/websites/servicos-de-rede/Imagens/Bg2.jpg);
+background-blend-mode:color-dodge;
+color: rgb(39, 134, 147);
+border:3px solid rgb(39, 134, 147);
+font-size: larger;
+margin: 10px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Style8{
+text-align: center;
+background-color:rgb(211, 99, 255);
+background-image: url(/websites/servicos-de-rede/Imagens/Bg2.jpg);
+background-blend-mode:color-dodge;
+color: rgb(135, 66, 162);
+border:3px solid rgb(135, 66, 162);
+font-size: larger;
+margin: 10px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Text1{
+text-align: center;
+background-color: burlywood;
+
+color: rgb(155, 121, 76);
+border: 3px solid rgb(155, 121, 76);
+font-size: larger;
+margin: 10px;
+margin-bottom: 50px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Text2{
+text-align: center;
+background-color:cadetblue;
+color:rgb(1, 106, 106);
+border:3px solid darkcyan;
+font-size: larger;
+margin: 10px;
+margin-bottom: 50px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Text3{
+text-align: center;
+background-color:rgb(60, 80, 206);
+color:rgb(19, 32, 137);
+border:3px solid rgb(17, 35, 163);
+font-size: larger;
+margin: 10px;
+margin-bottom: 50px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Text4{
+text-align: center;
+background-color:rgb(170, 227, 112);
+color:rgb(94, 157, 32);
+border:3px solid rgb(114, 180, 48);
+font-size: larger;
+margin: 10px;
+margin-bottom: 50px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Text5{
+text-align: center;
+background-color:rgb(255, 120, 185);
+color:rgb(164, 70, 116);
+border:3px solid rgb(218, 89, 151);
+font-size: larger;
+margin: 10px;
+margin-bottom: 50px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Text6{
+texT-align: center;
+background-color: rgb(232, 186, 1);
+color: rgb(173, 139, 4);
+border:3px solid rgb(173, 139, 4);
+font-size: larger;
+margin: 10px;
+margin-bottom: 50px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Text7{
+text-align: center;
+background-color:rgb(58, 188, 205);
+color: rgb(39, 134, 147);
+border:3px solid rgb(39, 134, 147);
+font-size: larger;
+margin: 10px;
+margin-bottom: 50px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.Text8{
+text-align: center;
+background-color:rgb(211, 99, 255);
+color: rgb(135, 66, 162);
+border:3px solid rgb(135, 66, 162);
+font-size: larger;
+margin: 10px;
+margin-bottom: 50px;
+padding: 10px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.navbar {
+overflow: auto;
+background-color: rgb(133, 112, 64);
+position: fixed;
+top: 0;
+width: 100%;
+}
+.navbar a {
+float:left;
+display: block;
+color: #ffffff;
+text-align: center;
+padding: 12px 16px;
+text-decoration: none;
+font-size: 17px;
+} 
+.navbar a:hover {
+background: rgb(207, 175, 100);
+color: rgb(0, 0, 0);
+} 

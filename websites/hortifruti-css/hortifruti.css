@@ -1,0 +1,19 @@
+body {
+    background-color:rgb(0, 0, 0); color: rgb(255, 255, 255);
+  }
+  img {
+    width: 33%;
+    height: auto;
+    max-width: 235px;
+  }
+  
+  .blur {filter: blur(4px);}
+  .brightness {filter: brightness(300%);}
+  .contrast {filter: contrast(400%);}
+  .grayscale {filter: grayscale(100%);}
+  .huerotate {filter: hue-rotate(300deg);}
+  .invert {filter: invert(100%);}
+  .opacity {filter: opacity(50%);}
+  .saturate {filter: saturate(53);}
+  .sepia {filter: sepia(100%);}
+  .shadow {filter: drop-shadow(8px 8px 10px green);}

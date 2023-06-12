@@ -1,0 +1,30 @@
+.um{
+  background-color: hsl(0, 0%, 25%);
+  text-align: left;
+  color:rgb(153, 153, 153);
+  font-size: large ;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.dois{
+  background-color: hsl(0, 0%, 25%);
+  text-align: left;
+  color:rgb(255, 255, 255);
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.button {
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display:inline-block;
+  font-size: 17px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: rgb(153, 153, 153);
+  transition-duration: 0.4s;
+}
+.button:hover {
+background-color: rgb(113, 113, 113);}
